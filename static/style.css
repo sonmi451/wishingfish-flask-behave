@@ -1,0 +1,46 @@
+body {
+	background-color: #F5F5F5;
+	color: #212120;
+    margin: 0 auto;
+    text-align: center;
+    position: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+}
+
+div.title {
+}
+
+div.picture {
+}
+
+a:link {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:visited {
+	text-decoration: none;
+	color: inherit;
+}
+
+a:hover {
+	color: #857fa8;
+	text-decoration: bold;
+}
+
+h1 {
+	font-size: 50px;
+    font-family: 'Amatic SC', serif;
+}
+
+h2 {
+	font-size: 35px;
+    font-family: 'Sacramento', sans-serif;
+}
+
+img {
+	position: center;
+	width: 500px;
+}
